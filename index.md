@@ -31,6 +31,15 @@ and sometimes unfinished.
 
 ***
 
+## Selected Work
+
+- *Not everything needs to be shared*
+- *The things we almost say*
+- *Hold the now*
+- *A soulful contradiction*
+
+***
+
 ## First Book — Coming Soon
 
 A debut collection is in progress.
