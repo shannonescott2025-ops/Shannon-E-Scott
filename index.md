@@ -36,35 +36,14 @@ A debut collection is in progress.
 **Pre-order announcements will open soon.**  
 If you’d like to be notified first:
 
-<button onclick="window.formbutton('open')" class="notify-button">
-  Join the List
-</button>
+<form action="https://formspree.io/f/xojnejrv" method="POST" class="email-form">
+  <input type="email" name="email" placeholder="your@email.com" required>
+  <button type="submit">Notify Me</button>
+</form>
 
 <p class="fine-print">
 No spam. Only release and pre-order updates.
 </p>
-
-<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
-<script>
-  window.formbutton = window.formbutton || function () {
-    (formbutton.q = formbutton.q || []).push(arguments);
-  };
-
-  formbutton("create", {
-    action: "https://formspree.io/f/xojnejrv",
-    title: "Get Early Access",
-    fields: [
-      {
-        type: "email",
-        label: "Email",
-        name: "email",
-        required: true,
-        placeholder: "your@email.com"
-      },
-      { type: "submit", value: "Notify Me" }
-    ]
-  });
-</script>
 
 ***
 
