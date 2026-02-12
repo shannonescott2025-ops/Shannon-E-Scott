@@ -1,36 +1,53 @@
 ---
-# **Shannon E Scott**
+layout: default
+title: Shannon E. Scott
+---
 
-#### *Poetry before I disappear*
+# Shannon E. Scott  
+### *Poetry Before I Disappear*
 
-<br>
+---
 
-I write under a pseudonym.  
+Poetry that lingers in the space between closeness and retreat.  
+The body. The pause. The almost-confession.
 
-The work asks for distance — and for intimacy.  
-The name allows both.
+I write into the quiet fractures inside love—  
+where tenderness and restraint share the same breath.
 
-<br>
-
-My poems explore the small fractures inside love —  
-where closeness and hesitation share the same breath.  
-
-I return often to the body — to effort, restraint, movement —  
+My work returns often to effort, to movement, to endurance—  
 and the private negotiations we make  
 to stay,  
 to leave,  
 to soften.
 
-<br>
+I’m drawn to what remains unsaid.  
+To the moment just before a truth becomes real.
 
-I’m interested in what remains unsaid.  
-In the pause before confession.  
-In endurance as a form of tenderness.
-
-<br>
-
-I believe a poem should feel like breath —  
+A poem, to me, should feel like breath—  
 held, released,  
 and sometimes unfinished.
 
 ---
+
+## First Book — Coming Soon
+
+A debut collection is in progress.
+
+**Pre-order announcements will open soon.**  
+If you’d like to be notified first:
+
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="email-form">
+  <input type="email" name="email" placeholder="your email address" required>
+  <button type="submit">Notify Me</button>
+</form>
+
+<p class="fine-print">
+No spam. No newsletters. Only release and pre-order updates.
+</p>
+
+---
+
+## Contact
+
+For publication inquiries or collaborations:  
+**your@email.com**
