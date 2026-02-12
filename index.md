@@ -6,8 +6,6 @@ title: Shannon E. Scott
 # Shannon E. Scott  
 ### *Poetry Before I Disappear*
 
-<img src="/assets/images/hero.png" class="hero">
-
 ***
 
 Poetry that lingers in the space between closeness and retreat.  
