@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(rgba(246,241,227,0.92), rgba(246,241,227,0.92)),
+              url("/assets/desk.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
