@@ -38,7 +38,7 @@ If you’d like to be notified first:
 
 <form action="https://formspree.io/f/xojnejrv" method="POST" class="email-form">
   <input type="email" name="email" placeholder="your@email.com" required>
-  <button type="submit">Notify Me</button>
+  <button type="submit">Get early access</button>
 </form>
 
 <p class="fine-print">
