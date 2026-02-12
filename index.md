@@ -36,9 +36,9 @@ A debut collection is in progress.
 **Pre-order announcements will open soon.**  
 If you’d like to be notified first:
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="email-form">
+<form action="[https://formspree.io/f/YOUR_FORM_ID](https://formspree.io/f/xojnejrv)" method="POST" class="email-form">
   <input type="email" name="email" placeholder="your email address" required>
-  <button type="submit">Notify Me</button>
+  <button type="submit">Get First Access</button>
 </form>
 
 <p class="fine-print">
