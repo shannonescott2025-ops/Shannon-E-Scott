@@ -50,4 +50,4 @@ No spam. No newsletters. Only release and pre-order updates.
 ## Contact
 
 For publication inquiries or collaborations:  
-**your@email.com**
+**shannonescott2025 at gmail.com**
